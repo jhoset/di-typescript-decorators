@@ -32,3 +32,7 @@ npm test
 
 ### Contributing
 Contributions are welcome! Fork the repository and submit a pull request.
+
+References:
+
+[Build your own dependency injection](https://www.danielcornock.co.uk/articles/dependency-injection-typescript-decorators)
