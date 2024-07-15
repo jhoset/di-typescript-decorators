@@ -12,5 +12,9 @@
   "devDependencies": {
     "tsc-watch": "^6.2.0",
     "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.17.6",
+    "lodash": "^4.17.21"
   }
 }
