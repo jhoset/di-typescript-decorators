@@ -1,0 +1,16 @@
+{
+  "name": "di-injection",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev:server": "tsc-watch --onSuccess \"node ./dist/app.js\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tsc-watch": "^6.2.0",
+    "typescript": "^5.5.3"
+  }
+}
